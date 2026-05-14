@@ -55,5 +55,6 @@
         <li>Email: <a href="mailto:jordigw@gmail.com">jordigw@gmail.com</a></li>
       </ul>
     </td>
+
   </tr>
 </table>
